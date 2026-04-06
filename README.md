@@ -3,7 +3,7 @@ This is an dataset that i tested on my pc with local models to see how fast and 
 
 # Main
 This is an Data set that took me hours to make. It is to see how fast local and cloud ollama models run.  
-I have tested around 49 models. Local an cloud. All with the same prompts and how fast and more do.  
+I have tested around 49 models. Local and cloud. All with the same prompts and how fast and more do.  
 # PC specs
 ```bash
 GPU: rx 9060 xt 16gb vram
